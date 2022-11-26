@@ -3,6 +3,8 @@
 import { FirebaseAppProvider } from "reactfire";
 import { PropsWithChildren } from "react";
 
+import "./globals.css";
+
 const firebaseConfig = {
 	apiKey: "AIzaSyD008f0ItuM0teA4W2oMGJPSbDU1n_sV98",
 	authDomain: "idealmd-34853.firebaseapp.com",
